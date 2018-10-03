@@ -15,5 +15,5 @@ https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6
 Optimización de batería <br>
 https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70
 
-Múltiples tareas asíncronas
+Múltiples tareas asíncronas <br>
 https://blog.mindorks.com/run-parallel-tasks-in-java-or-android-and-get-callback-when-all-complete-video
