@@ -12,5 +12,8 @@ https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying
 Pre Computed Text <br>
 https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6
 
-Optimización de batería
+Optimización de batería <br>
 https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70
+
+Múltiples tareas asíncronas
+https://blog.mindorks.com/run-parallel-tasks-in-java-or-android-and-get-callback-when-all-complete-video
