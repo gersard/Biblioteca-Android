@@ -8,3 +8,9 @@ Recycler View<br>
 
 TextViews <br>
 https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455
+
+Pre Computed Text <br>
+https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6
+
+Optimización de batería
+https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70
