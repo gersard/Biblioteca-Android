@@ -1,7 +1,7 @@
 # Biblioteca-Android
 
 Recycler View - Diff Util<br>
- https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a
+ https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a <br>
  https://proandroiddev.com/diffutil-is-a-must-797502bc1149
  
 Recycler View - Swipe and Undo <br>
