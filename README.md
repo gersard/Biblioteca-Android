@@ -48,3 +48,6 @@ https://developer.android.com/jetpack/androidx/migrate?hl=es-419
 
 Appbar item count <br>
 https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea
+
+App Bundle <br>
+https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7
