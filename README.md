@@ -53,8 +53,8 @@ App Bundle <br>
 https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7
 
 Firebase ML <br>
-https://mobikul.com/android-text-recognizer-using-camera-and-firebase-ml-kit/
-https://hoineki.com/article.php?a=ML_Kit_Tutorial_Barcode_Scanning17
-https://github.com/firebase/quickstart-android/tree/master/mlkit
-https://firebase.google.com/docs/ml-kit/android/read-barcodes#run-the-barcode-detector
+https://mobikul.com/android-text-recognizer-using-camera-and-firebase-ml-kit/ <br>
+https://hoineki.com/article.php?a=ML_Kit_Tutorial_Barcode_Scanning17 <br>
+https://github.com/firebase/quickstart-android/tree/master/mlkit <br>
+https://firebase.google.com/docs/ml-kit/android/read-barcodes#run-the-barcode-detector <br>
 https://github.com/firebase/quickstart-android/issues/703
