@@ -61,3 +61,6 @@ https://github.com/firebase/quickstart-android/issues/703
 
 Swift vs Dart <br>
 https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17?fbclid=IwAR0BqP5AmuxFxb12Cv1xk7UZTJEZ4c9bnk8YjoEYTHWwzTRejmJ6waBI2ng
+
+Guardar Apis Keys usando NDK <br>
+https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18
