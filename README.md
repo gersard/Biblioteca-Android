@@ -59,8 +59,8 @@ https://github.com/firebase/quickstart-android/tree/master/mlkit <br>
 https://firebase.google.com/docs/ml-kit/android/read-barcodes#run-the-barcode-detector <br>
 https://github.com/firebase/quickstart-android/issues/703
 
-Swift vs Dart <br>
-https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17?fbclid=IwAR0BqP5AmuxFxb12Cv1xk7UZTJEZ4c9bnk8YjoEYTHWwzTRejmJ6waBI2ng
+ <br>
+[BiometricPrompt](https://medium.com/androiddevelopers/migrating-from-fingerprintmanager-to-biometricprompt-4bc5f570dccd)
 
 Guardar Apis Keys usando NDK <br>
 https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18
