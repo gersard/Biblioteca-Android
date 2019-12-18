@@ -43,9 +43,6 @@ https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sh
 Android Support Library v28 <br>
 https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8
 
-AndroidX <br>
-https://developer.android.com/jetpack/androidx/migrate?hl=es-419
-
 Appbar item count <br>
 https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea
 
@@ -62,6 +59,9 @@ https://github.com/firebase/quickstart-android/issues/703
 ### BiometricPrompt <br>
 [Migrating-from-fingerprintmanager-to-biometricprompt](https://medium.com/androiddevelopers/migrating-from-fingerprintmanager-to-biometricprompt-4bc5f570dccd) <br>
 [BiometricPrompt vs FingerprintManager](https://edit.theappbusiness.com/androidx-biometricprompt-vs-fingerprintmanager-the-good-and-the-ugly-c15a1b3a67d7)
+
+### Coroutines <br>
+[Coroutines on Android Part 1](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
 
 Guardar Apis Keys usando NDK <br>
 https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18
