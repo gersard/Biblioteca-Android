@@ -65,3 +65,6 @@ https://github.com/firebase/quickstart-android/issues/703
 
 Guardar Apis Keys usando NDK <br>
 https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18
+
+### Uso correcto de ClearTraffic
+[fix-cleartext-traffic-error](https://medium.com/@son.rommer/fix-cleartext-traffic-error-in-android-9-pie-2f4e9e2235e6)
