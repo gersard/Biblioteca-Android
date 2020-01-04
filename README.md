@@ -70,4 +70,4 @@ https://github.com/firebase/quickstart-android/issues/703
 [fix-cleartext-traffic-error](https://medium.com/@son.rommer/fix-cleartext-traffic-error-in-android-9-pie-2f4e9e2235e6)
 
 ### Patrón Visitor
-[Creating a Multiple-View-Type RecyclerView Using the Visitor Patternr](https://medium.com/@slarsoncreative/creating-a-multiple-view-type-recyclerview-using-the-visitor-pattern-1184d8732167)
+[Creating a Multiple-View-Type RecyclerView Using the Visitor Pattern](https://medium.com/@slarsoncreative/creating-a-multiple-view-type-recyclerview-using-the-visitor-pattern-1184d8732167)
