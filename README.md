@@ -63,8 +63,11 @@ https://github.com/firebase/quickstart-android/issues/703
 ### Coroutines <br>
 [Coroutines on Android Part 1](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
 
-Guardar Apis Keys usando NDK <br>
-https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18
+### NDK 
+[Guardar Apis Keys usando NDK](https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18)
 
 ### Uso correcto de ClearTraffic
 [fix-cleartext-traffic-error](https://medium.com/@son.rommer/fix-cleartext-traffic-error-in-android-9-pie-2f4e9e2235e6)
+
+### Patrón Visitor
+[Creating a Multiple-View-Type RecyclerView Using the Visitor Patternr](https://medium.com/@slarsoncreative/creating-a-multiple-view-type-recyclerview-using-the-visitor-pattern-1184d8732167)
