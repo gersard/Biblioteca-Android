@@ -29,7 +29,7 @@ Android WorkManager <br>
 https://codelabs.developers.google.com/codelabs/android-workmanager/#0
 
 ### Animated Vector Drawable
-[Easy path to animated icons(https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
+[Easy path to animated icons](https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
 
 State List Animator <br>
 https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0
