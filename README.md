@@ -74,3 +74,6 @@ https://github.com/firebase/quickstart-android/issues/703
 
 ### Patrón Visitor
 [Creating a Multiple-View-Type RecyclerView Using the Visitor Pattern](https://medium.com/@slarsoncreative/creating-a-multiple-view-type-recyclerview-using-the-visitor-pattern-1184d8732167)
+
+### Dark Mode
+[Android Dark Theme](https://www.netguru.com/codestories/android-dark-theme)
