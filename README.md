@@ -77,3 +77,6 @@ https://github.com/firebase/quickstart-android/issues/703
 
 ### Dark Mode
 [Android Dark Theme](https://www.netguru.com/codestories/android-dark-theme)
+
+### Scoped Storage
+[Scoped Storage Stories Undocumented Documents](https://commonsware.com/blog/2020/02/15/scoped-storage-stories-undocumented-documents.html)
