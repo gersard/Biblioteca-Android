@@ -53,11 +53,11 @@ App Bundle <br>
 https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7
 
 ### Firebase ML
-[text-recognizer-using-camera](https://mobikul.com/android-text-recognizer-using-camera-and-firebase-ml-kit)
-https://hoineki.com/article.php?a=ML_Kit_Tutorial_Barcode_Scanning17 <br>
-https://github.com/firebase/quickstart-android/tree/master/mlkit <br>
-https://firebase.google.com/docs/ml-kit/android/read-barcodes#run-the-barcode-detector <br>
-https://github.com/firebase/quickstart-android/issues/703
+[text-recognizer-using-camera](https://mobikul.com/android-text-recognizer-using-camera-and-firebase-ml-kit) <br>
+[ML_Kit_Tutorial_Barcode_Scanning](https://hoineki.com/article.php?a=ML_Kit_Tutorial_Barcode_Scanning17) <br>
+[quickstart mlkit](https://github.com/firebase/quickstart-android/tree/master/mlkit) <br>
+[Read barcodes](https://firebase.google.com/docs/ml-kit/android/read-barcodes#run-the-barcode-detector) <br>
+[Issues quick start](https://github.com/firebase/quickstart-android/issues/703)
 
 ### BiometricPrompt <br>
 [Migrating-from-fingerprintmanager-to-biometricprompt](https://medium.com/androiddevelopers/migrating-from-fingerprintmanager-to-biometricprompt-4bc5f570dccd) <br>
