@@ -46,11 +46,11 @@ https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sh
 Android Support Library v28 <br>
 https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8
 
-Appbar item count <br>
-https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea
+### Appbar item count
+[Making actionbar beautiful by showing count](https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea)
 
-App Bundle <br>
-https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7
+### App Bundle
+[Exploring the android app bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
 
 ### Firebase ML
 [text-recognizer-using-camera](https://mobikul.com/android-text-recognizer-using-camera-and-firebase-ml-kit) <br>
@@ -83,3 +83,6 @@ https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca1
 
 ### Encrypted Shared Preferences
 [Encrypted shared preferences](https://www.rockandnull.com/encrypted-shared-preferences/)
+
+### View binding
+[ViewBinding in Android](https://medium.com/better-programming/everything-you-should-know-about-viewbinding-in-android-52552af9e8ba)
