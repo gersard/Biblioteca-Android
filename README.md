@@ -40,11 +40,11 @@ https://mindorks.com/android/store/Animations/daimajia/androidviewanimations
 Performance Metrics <br>
 https://blog.mindorks.com/android-app-performance-metrics-a1176334186e
 
-Bottom Sheet <br>
-https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b
+### Bottom Sheet
+[Implementing google refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
 
-Android Support Library v28 <br>
-https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8
+### Android Support Library v28 
+[Exploring the v28 android design support library](https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8)
 
 ### Appbar item count
 [Making actionbar beautiful by showing count](https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea)
