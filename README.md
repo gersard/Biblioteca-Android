@@ -1,17 +1,15 @@
 # Biblioteca-Android
 
-Recycler View - Diff Util<br>
- https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a <br>
- https://proandroiddev.com/diffutil-is-a-must-797502bc1149
+### Recycler View
+[Diffutils improving performance of recyclerview](https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a)
+[Diffutil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)
+[Recyclerview swipe delete undo using item touch helper](https://www.androidhive.info/2017/09/android-recyclerview-swipe-delete-undo-using-itemtouchhelper/)
  
-Recycler View - Swipe and Undo <br>
-https://www.androidhive.info/2017/09/android-recyclerview-swipe-delete-undo-using-itemtouchhelper/
- 
-Reducir APK Size <br>
-https://www.codementor.io/bapusahebpatil/reduce-your-app-s-apk-size-even-if-you-use-realm-n1cif4bhz
+### APK Size
+[Reduce your apps apk size](https://www.codementor.io/bapusahebpatil/reduce-your-app-s-apk-size-even-if-you-use-realm-n1cif4bhz)
 
-TextViews <br>
-https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455
+### TextView
+[One textview to rule them all justifying text](https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455)
 
 Pre Computed Text <br>
 https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6
