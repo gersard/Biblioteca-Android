@@ -11,23 +11,24 @@
 ### TextView
 [One textview to rule them all justifying text](https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455)
 
-Pre Computed Text <br>
-https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6
+### Pre Computed Text 
+[Precomputedtext new api android pie](https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6)
 
-Optimización de batería <br>
-https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70
+### Optimización de batería
+[Baterry optimization for android apps](https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70)
 
-Múltiples tareas asíncronas <br>
-https://blog.mindorks.com/run-parallel-tasks-in-java-or-android-and-get-callback-when-all-complete-video
+### Múltiples tareas asíncronas
+[Run parallel tasks in java or android and get callback when all complete](https://blog.mindorks.com/run-parallel-tasks-in-java-or-android-and-get-callback-when-all-complete-video)
 
-Android Lifecycle <br>
-https://codelabs.developers.google.com/codelabs/android-lifecycles/#0
+### Android Lifecycle
+[Android lifecycle](https://codelabs.developers.google.com/codelabs/android-lifecycles/#0)
 
 Android WorkManager <br>
 https://codelabs.developers.google.com/codelabs/android-workmanager/#0
 
-### Animated Vector Drawable
+### Vector Drawable
 [Easy path to animated icons](https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
+[Vector Assets](https://www.youtube.com/watch?v=fgbl34me3kk)
 
 State List Animator <br>
 https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0
