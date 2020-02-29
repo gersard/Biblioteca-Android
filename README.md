@@ -23,21 +23,21 @@
 ### Android Lifecycle
 [Android lifecycle](https://codelabs.developers.google.com/codelabs/android-lifecycles/#0)
 
-Android WorkManager <br>
-https://codelabs.developers.google.com/codelabs/android-workmanager/#0
+### Android WorkManager
+[Codelab workmanager](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
 
 ### Vector Drawable
 [Easy path to animated icons](https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
 [Vector Assets](https://www.youtube.com/watch?v=fgbl34me3kk)
 
-State List Animator <br>
-https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0
+### State List Animator
+[StateListAnimator a powerful little tool for elevation](https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0)
 
-View animation library <br>
-https://mindorks.com/android/store/Animations/daimajia/androidviewanimations
+### View animation library
+[Android View Animations](https://mindorks.com/android/store/Animations/daimajia/androidviewanimations)
 
-Performance Metrics <br>
-https://blog.mindorks.com/android-app-performance-metrics-a1176334186e
+### Performance Metrics
+[Android app performance metrics](https://blog.mindorks.com/android-app-performance-metrics-a1176334186e)
 
 ### Bottom Sheet
 [Implementing google refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
@@ -58,11 +58,11 @@ https://blog.mindorks.com/android-app-performance-metrics-a1176334186e
 [Read barcodes](https://firebase.google.com/docs/ml-kit/android/read-barcodes#run-the-barcode-detector) <br>
 [Issues quick start](https://github.com/firebase/quickstart-android/issues/703)
 
-### BiometricPrompt <br>
+### BiometricPrompt
 [Migrating-from-fingerprintmanager-to-biometricprompt](https://medium.com/androiddevelopers/migrating-from-fingerprintmanager-to-biometricprompt-4bc5f570dccd) <br>
 [BiometricPrompt vs FingerprintManager](https://edit.theappbusiness.com/androidx-biometricprompt-vs-fingerprintmanager-the-good-and-the-ugly-c15a1b3a67d7)
 
-### Coroutines <br>
+### Coroutines
 [Coroutines on Android Part 1](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
 
 ### NDK 
@@ -85,3 +85,6 @@ https://blog.mindorks.com/android-app-performance-metrics-a1176334186e
 
 ### View binding
 [ViewBinding in Android](https://medium.com/better-programming/everything-you-should-know-about-viewbinding-in-android-52552af9e8ba)
+
+### Local Date
+[Examples for using the Java 8 Date and Time API (JSR 310)](https://gist.github.com/mscharhag/9195718)
