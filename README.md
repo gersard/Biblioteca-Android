@@ -63,7 +63,7 @@
 [BiometricPrompt vs FingerprintManager](https://edit.theappbusiness.com/androidx-biometricprompt-vs-fingerprintmanager-the-good-and-the-ugly-c15a1b3a67d7)
 
 ### Coroutines
-[Coroutines on Android Part 1](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
+[Coroutines on Android Part 1](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)<br>
 [Coroutines Antonio Leiva](https://www.youtube.com/watch?v=KqLtW8d8PXY)
 
 ### NDK 
