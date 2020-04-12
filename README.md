@@ -85,7 +85,8 @@
 [Encrypted shared preferences](https://www.rockandnull.com/encrypted-shared-preferences/)
 
 ### View binding
-[ViewBinding in Android](https://medium.com/better-programming/everything-you-should-know-about-viewbinding-in-android-52552af9e8ba)
+[ViewBinding in Android](https://medium.com/better-programming/everything-you-should-know-about-viewbinding-in-android-52552af9e8ba)<br>
+[Simple one liner viewbinding](https://medium.com/@Zhuinden/simple-one-liner-viewbinding-in-fragments-and-activities-with-kotlin-961430c6c07c)
 
 ### Local Date
 [Examples for using the Java 8 Date and Time API (JSR 310)](https://gist.github.com/mscharhag/9195718)
