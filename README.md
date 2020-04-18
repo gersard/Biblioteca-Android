@@ -4,6 +4,7 @@
 [Diffutils improving performance of recyclerview](https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a)
 [Diffutil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)
 [Recyclerview swipe delete undo using item touch helper](https://www.androidhive.info/2017/09/android-recyclerview-swipe-delete-undo-using-itemtouchhelper/)
+[RecyclerView scrolling performance](https://medium.com/@kamilbekar/recyclerview-scrolling-performance-ff05a3a79262)
  
 ### APK Size
 [Reduce your apps apk size](https://www.codementor.io/bapusahebpatil/reduce-your-app-s-apk-size-even-if-you-use-realm-n1cif4bhz)
