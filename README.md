@@ -38,7 +38,8 @@
 [Android View Animations](https://mindorks.com/android/store/Animations/daimajia/androidviewanimations)
 
 ### Performance Metrics
-[Android app performance metrics](https://blog.mindorks.com/android-app-performance-metrics-a1176334186e)
+[Android app performance metrics](https://blog.mindorks.com/android-app-performance-metrics-a1176334186e)<br>
+[ConstraintLayout Performance](https://medium.com/@krpiotrek/constraintlayout-performance-c1455c7984d7)
 
 ### Bottom Sheet
 [Implementing google refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
