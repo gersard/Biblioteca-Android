@@ -1,8 +1,8 @@
 # Biblioteca-Android
 
 ### Recycler View
-[Diffutils improving performance of recyclerview](https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a)
-[Diffutil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)
+[Diffutils improving performance of recyclerview](https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a)<br>
+[Diffutil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)<br>
 [Recyclerview swipe delete undo using item touch helper](https://www.androidhive.info/2017/09/android-recyclerview-swipe-delete-undo-using-itemtouchhelper/)<br>
 [RecyclerView scrolling performance](https://medium.com/@kamilbekar/recyclerview-scrolling-performance-ff05a3a79262)
  
