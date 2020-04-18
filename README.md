@@ -40,6 +40,8 @@
 ### Performance Metrics
 [Android app performance metrics](https://blog.mindorks.com/android-app-performance-metrics-a1176334186e)<br>
 [ConstraintLayout Performance](https://medium.com/@krpiotrek/constraintlayout-performance-c1455c7984d7)
+[Window.OnFrameMetricsAvailableListener](https://developer.android.com/reference/android/view/Window.OnFrameMetricsAvailableListener)<br>
+[Understanding performance benefits ConstraintLayout](https://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html)
 
 ### Bottom Sheet
 [Implementing google refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
