@@ -13,7 +13,7 @@
 [One textview to rule them all justifying text](https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455)
 
 ### Fragments
-[Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)
+[Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)<br>
 [On request permission result deprecated](https://developer.android.com/reference/androidx/fragment/app/Fragment#onRequestPermissionsResult(int,%20java.lang.String[],%20int[]))
 
 ### Pre Computed Text 
