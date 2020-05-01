@@ -12,6 +12,9 @@
 ### TextView
 [One textview to rule them all justifying text](https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455)
 
+### Fragments
+[Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)
+
 ### Pre Computed Text 
 [Precomputedtext new api android pie](https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6)
 
