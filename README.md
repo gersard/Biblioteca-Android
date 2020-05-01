@@ -14,6 +14,7 @@
 
 ### Fragments
 [Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)
+[On request permission result deprecated](https://developer.android.com/reference/androidx/fragment/app/Fragment#onRequestPermissionsResult(int,%20java.lang.String[],%20int[]))
 
 ### Pre Computed Text 
 [Precomputedtext new api android pie](https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6)
