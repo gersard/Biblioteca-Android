@@ -74,7 +74,8 @@
 
 ### Coroutines
 [Coroutines on Android Part 1](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)<br>
-[Coroutines Antonio Leiva](https://www.youtube.com/watch?v=KqLtW8d8PXY)
+[Coroutines Antonio Leiva](https://www.youtube.com/watch?v=KqLtW8d8PXY)<br>
+[Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)
 
 ### NDK 
 [Guardar Apis Keys usando NDK](https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18)
@@ -103,3 +104,6 @@
 
 ### Connectivity State
 [Connectivity network internet state change android 10](https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925)
+
+### Notifications
+[Android Notification As Deep As Possible](https://www.reddit.com/r/androiddev/comments/gcwkre/android_notification_as_deep_as_possible/)
