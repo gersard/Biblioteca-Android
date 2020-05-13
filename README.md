@@ -103,7 +103,7 @@
 [Simple one liner viewbinding](https://medium.com/@Zhuinden/simple-one-liner-viewbinding-in-fragments-and-activities-with-kotlin-961430c6c07c)
 
 ### Local Date
-[Examples for using the Java 8 Date and Time API (JSR 310)](https://gist.github.com/mscharhag/9195718)
+[Examples for using the Java 8 Date and Time API (JSR 310)](https://gist.github.com/mscharhag/9195718)<br>
 [Java 8 DateTime api](https://www.baeldung.com/migrating-to-java-8-date-time-api)
 
 ### Connectivity State
