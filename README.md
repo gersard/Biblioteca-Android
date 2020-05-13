@@ -104,6 +104,7 @@
 
 ### Local Date
 [Examples for using the Java 8 Date and Time API (JSR 310)](https://gist.github.com/mscharhag/9195718)
+[Java 8 DateTime api](https://www.baeldung.com/migrating-to-java-8-date-time-api)
 
 ### Connectivity State
 [Connectivity network internet state change android 10](https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925)
