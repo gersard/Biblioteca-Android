@@ -1,5 +1,8 @@
 # Biblioteca-Android
 
+### Animations | Transitions
+[Training animation](https://developer.android.com/training/animation/)
+
 ### Recycler View
 [Diffutils improving performance of recyclerview](https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a)<br>
 [Diffutil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)<br>
