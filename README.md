@@ -8,7 +8,8 @@
 [Diffutil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)<br>
 [Recyclerview swipe delete undo using item touch helper](https://www.androidhive.info/2017/09/android-recyclerview-swipe-delete-undo-using-itemtouchhelper/)<br>
 [RecyclerView scrolling performance](https://medium.com/@kamilbekar/recyclerview-scrolling-performance-ff05a3a79262)<br>
-[Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
+[Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)<br>
+[Recycler view sticky header](https://medium.com/swlh/android-recyclerview-stickyheader-without-external-library-25845ec3e20f)
  
 ### APK Size
 [Reduce your apps apk size](https://www.codementor.io/bapusahebpatil/reduce-your-app-s-apk-size-even-if-you-use-realm-n1cif4bhz)
