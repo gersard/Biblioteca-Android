@@ -120,5 +120,3 @@
 ### Connectivity State
 [Connectivity network internet state change android 10](https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925)
 
-### Notifications
-[Android Notification As Deep As Possible](https://www.reddit.com/r/androiddev/comments/gcwkre/android_notification_as_deep_as_possible/)
