@@ -36,6 +36,9 @@
 ### Múltiples tareas asíncronas
 [Run parallel tasks in java or android and get callback when all complete](https://blog.mindorks.com/run-parallel-tasks-in-java-or-android-and-get-callback-when-all-complete-video)
 
+### Notifications
+[Notification All in One](https://itnext.io/android-notification-all-in-one-8df3e1218e0e)
+
 ### Android Lifecycle
 [Android lifecycle](https://codelabs.developers.google.com/codelabs/android-lifecycles/#0)
 
