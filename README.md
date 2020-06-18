@@ -1,7 +1,30 @@
 # Biblioteca-Android
 
+### Android Lifecycle
+[Android lifecycle](https://codelabs.developers.google.com/codelabs/android-lifecycles/#0)
+
+### Android WorkManager
+[Codelab workmanager](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
+
+### Android Support Library v28 
+[Exploring the v28 android design support library](https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8)
+
+### Appbar item count
+[Making actionbar beautiful by showing count](https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea)
+
 ### Animations | Transitions
-[Training animation](https://developer.android.com/training/animation/)
+[Training animation](https://developer.android.com/training/animation/)<br>
+[Which android animator to use?](https://medium.com/@elye.project/which-android-animator-to-use-ced54e21d317)
+
+### APK Size
+[Reduce your apps apk size](https://www.codementor.io/bapusahebpatil/reduce-your-app-s-apk-size-even-if-you-use-realm-n1cif4bhz)
+
+### App Bundle
+[Exploring the android app bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
+
+### Fragments
+[Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)<br>
+[On request permission result deprecated](https://developer.android.com/reference/androidx/fragment/app/Fragment#onRequestPermissionsResult(int,%20java.lang.String[],%20int[]))
 
 ### Recycler View
 [Diffutils improving performance of recyclerview](https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a)<br>
@@ -11,9 +34,7 @@
 [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)<br>
 [Recycler view sticky header](https://medium.com/swlh/android-recyclerview-stickyheader-without-external-library-25845ec3e20f)<br>
 [Android expandable merge adapter](https://github.com/OHoussein/Android-Expandable-MergeAdapter)
- 
-### APK Size
-[Reduce your apps apk size](https://www.codementor.io/bapusahebpatil/reduce-your-app-s-apk-size-even-if-you-use-realm-n1cif4bhz)
+
 
 ### TextView
 [One textview to rule them all justifying text](https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455)
@@ -21,9 +42,6 @@
 ### Material Design/Components
 [There Is No Material Design Spinner for Android](https://medium.com/@rmirabelle/there-is-no-material-design-spinner-for-android-3261b7c77da8)
 
-### Fragments
-[Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)<br>
-[On request permission result deprecated](https://developer.android.com/reference/androidx/fragment/app/Fragment#onRequestPermissionsResult(int,%20java.lang.String[],%20int[]))
 
 ### Gradle
 [Treat your build files as you treat your code](https://proandroiddev.com/treat-your-build-files-as-you-treat-your-code-def80ac52978)
@@ -40,11 +58,7 @@
 ### Notifications
 [Notification All in One](https://itnext.io/android-notification-all-in-one-8df3e1218e0e)
 
-### Android Lifecycle
-[Android lifecycle](https://codelabs.developers.google.com/codelabs/android-lifecycles/#0)
 
-### Android WorkManager
-[Codelab workmanager](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
 
 ### Vector Drawable
 [Easy path to animated icons](https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
@@ -66,14 +80,7 @@
 ### Bottom Sheet
 [Implementing google refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
 
-### Android Support Library v28 
-[Exploring the v28 android design support library](https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8)
 
-### Appbar item count
-[Making actionbar beautiful by showing count](https://medium.com/mindorks/making-actionbar-beautiful-by-showing-count-on-actionbar-icon-ed3a3a1a74ea)
-
-### App Bundle
-[Exploring the android app bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
 
 ### Firebase ML
 [text-recognizer-using-camera](https://mobikul.com/android-text-recognizer-using-camera-and-firebase-ml-kit) <br>
