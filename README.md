@@ -62,6 +62,9 @@
 [Android new results api and how to use it](https://medium.com/swlh/android-new-results-api-and-how-to-use-it-to-make-your-code-cleaner-de20d5c1fffa)<br>
 [Activity results api](https://android.jlelse.eu/activity-results-api-69be5a225e86)
 
+### Testing
+[Android expresso for beginners](https://medium.com/better-programming/android-espresso-for-beginners-57628a15f8b4)
+
 ### Vector Drawable
 [Easy path to animated icons](https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
 [Vector Assets](https://www.youtube.com/watch?v=fgbl34me3kk)
