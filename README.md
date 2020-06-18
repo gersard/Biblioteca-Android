@@ -58,7 +58,8 @@
 ### Notifications
 [Notification All in One](https://itnext.io/android-notification-all-in-one-8df3e1218e0e)
 
-
+### Results API
+[Android new results api and how to use it](https://medium.com/swlh/android-new-results-api-and-how-to-use-it-to-make-your-code-cleaner-de20d5c1fffa)
 
 ### Vector Drawable
 [Easy path to animated icons](https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
