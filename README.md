@@ -26,6 +26,9 @@
 [Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)<br>
 [On request permission result deprecated](https://developer.android.com/reference/androidx/fragment/app/Fragment#onRequestPermissionsResult(int,%20java.lang.String[],%20int[]))
 
+### Google Play Biling
+[Working with google play biling part 1](https://medium.com/googleplaydev/working-with-google-play-billing-part-1-387677bd632b)
+
 ### Recycler View
 [Diffutils improving performance of recyclerview](https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a)<br>
 [Diffutil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)<br>
