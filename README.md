@@ -14,7 +14,8 @@
 
 ### Animations | Transitions
 [Training animation](https://developer.android.com/training/animation/)<br>
-[Which android animator to use?](https://medium.com/@elye.project/which-android-animator-to-use-ced54e21d317)
+[Which android animator to use?](https://medium.com/@elye.project/which-android-animator-to-use-ced54e21d317)<br>
+[Animation Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
 
 ### APK Size
 [Reduce your apps apk size](https://www.codementor.io/bapusahebpatil/reduce-your-app-s-apk-size-even-if-you-use-realm-n1cif4bhz)
