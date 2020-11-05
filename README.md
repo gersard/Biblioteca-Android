@@ -31,7 +31,7 @@
 [Implementing google refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
 
 ### Clean Architecture
-[Consejos sobre clean Architecture(https://blog.kirei.io/consejos-sobre-clean-architecture-98df898b8068)
+[Consejos sobre clean Architecture](https://blog.kirei.io/consejos-sobre-clean-architecture-98df898b8068)
 
 ### ClearTraffic
 [fix-cleartext-traffic-error](https://medium.com/@son.rommer/fix-cleartext-traffic-error-in-android-9-pie-2f4e9e2235e6)
