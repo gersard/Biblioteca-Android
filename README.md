@@ -74,6 +74,9 @@
 ### Gradle
 [Treat your build files as you treat your code](https://proandroiddev.com/treat-your-build-files-as-you-treat-your-code-def80ac52978)
 
+### Java
+[Support for newer java language apis](https://medium.com/androiddevelopers/support-for-newer-java-language-apis-bca79fc8ef65)
+
 ### Local Date
 [Examples for using the Java 8 Date and Time API (JSR 310)](https://gist.github.com/mscharhag/9195718)<br>
 [Java 8 DateTime api](https://www.baeldung.com/migrating-to-java-8-date-time-api)<br>
@@ -94,6 +97,9 @@
 
 ### Optimización de batería
 [Baterry optimization for android apps](https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70)
+
+### Pattern Visitor
+[Creating a Multiple-View-Type RecyclerView Using the Visitor Pattern](https://medium.com/@slarsoncreative/creating-a-multiple-view-type-recyclerview-using-the-visitor-pattern-1184d8732167)
 
 ### Pre Computed Text 
 [Precomputedtext new api android pie](https://medium.com/mindorks/precomputedtext-new-api-in-android-pie-74eb8f420ee6)
@@ -119,46 +125,28 @@
 [Android new results api and how to use it](https://medium.com/swlh/android-new-results-api-and-how-to-use-it-to-make-your-code-cleaner-de20d5c1fffa)<br>
 [Activity results api](https://android.jlelse.eu/activity-results-api-69be5a225e86)
 
+### Scoped Storage
+[Scoped Storage Stories Undocumented Documents](https://commonsware.com/blog/2020/02/15/scoped-storage-stories-undocumented-documents.html)<br>
+[Data and file storage overview](https://developer.android.com/training/data-storage)<br>
+[Scoped storage tutorial for android 11 deep dive](https://www.raywenderlich.com/10768834-scoped-storage-tutorial-for-android-11-deep-dive#c-rate)<br>
+[Android 11 changes storage](https://developer.android.com/about/versions/11/privacy/storage)
+
+
+### State List Animator
+[StateListAnimator a powerful little tool for elevation](https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0)
+
 ### Testing
 [Android expresso for beginners](https://medium.com/better-programming/android-espresso-for-beginners-57628a15f8b4)
 
 ### TextView
 [One textview to rule them all justifying text](https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455)
 
-
-
 ### Vector Drawable
 [Easy path to animated icons](https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
 [Vector Assets](https://www.youtube.com/watch?v=fgbl34me3kk)
 
-### State List Animator
-[StateListAnimator a powerful little tool for elevation](https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0)
-
 ### View animation library
 [Android View Animations](https://mindorks.com/android/store/Animations/daimajia/androidviewanimations)
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Pattern Visitor
-[Creating a Multiple-View-Type RecyclerView Using the Visitor Pattern](https://medium.com/@slarsoncreative/creating-a-multiple-view-type-recyclerview-using-the-visitor-pattern-1184d8732167)
-
-
-
-### Scoped Storage
-[Scoped Storage Stories Undocumented Documents](https://commonsware.com/blog/2020/02/15/scoped-storage-stories-undocumented-documents.html)<br>
-[Data and file storage overview](https://developer.android.com/training/data-storage)
-
-
 
 ### View binding
 [ViewBinding in Android](https://medium.com/better-programming/everything-you-should-know-about-viewbinding-in-android-52552af9e8ba)<br>
