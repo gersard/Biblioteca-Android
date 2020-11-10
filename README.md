@@ -16,6 +16,7 @@
 [Training animation](https://developer.android.com/training/animation/)<br>
 [Which android animator to use?](https://medium.com/@elye.project/which-android-animator-to-use-ced54e21d317)<br>
 [Animation Tutorials](https://github.com/SmartToolFactory/Animation-Tutorials)
+[Playing with material desgin transitions](https://proandroiddev.com/playing-with-material-design-transitions-b3ea90c5794c)
 
 ### APK Size
 [Reduce your apps apk size](https://www.codementor.io/bapusahebpatil/reduce-your-app-s-apk-size-even-if-you-use-realm-n1cif4bhz)
@@ -29,6 +30,9 @@
 
 ### Bottom Sheet
 [Implementing google refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
+
+### Camera X
+[Smile its camerax preview and capture](https://magdamiu.com/2020/08/10/smile-its-camerax-preview-and-capture/)
 
 ### Clean Architecture
 [Consejos sobre clean Architecture](https://blog.kirei.io/consejos-sobre-clean-architecture-98df898b8068)
@@ -47,6 +51,7 @@
 [Coroutines Antonio Leiva](https://www.youtube.com/watch?v=KqLtW8d8PXY)<br>
 [Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)<br>
 [Codelab](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
+
 ### Dark Mode
 [Android Dark Theme](https://www.netguru.com/codestories/android-dark-theme)
 
@@ -85,9 +90,11 @@
 ### Material Design/Components
 [There Is No Material Design Spinner for Android](https://medium.com/@rmirabelle/there-is-no-material-design-spinner-for-android-3261b7c77da8)
 
+### Memory Leak
+[Everything you need to know about memory leaks](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
+
 ### Múltiples tareas asíncronas
 [Run parallel tasks in java or android and get callback when all complete](https://blog.mindorks.com/run-parallel-tasks-in-java-or-android-and-get-callback-when-all-complete-video)
-
 
 ### NDK 
 [Guardar Apis Keys usando NDK](https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18)
@@ -118,8 +125,8 @@
 [RecyclerView scrolling performance](https://medium.com/@kamilbekar/recyclerview-scrolling-performance-ff05a3a79262)<br>
 [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)<br>
 [Recycler view sticky header](https://medium.com/swlh/android-recyclerview-stickyheader-without-external-library-25845ec3e20f)<br>
-[Android expandable merge adapter](https://github.com/OHoussein/Android-Expandable-MergeAdapter)
-
+[Android expandable merge adapter](https://github.com/OHoussein/Android-Expandable-MergeAdapter)<br>
+[Smooth Recyclerview scrolling in android](https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7)
 
 ### Results API
 [Android new results api and how to use it](https://medium.com/swlh/android-new-results-api-and-how-to-use-it-to-make-your-code-cleaner-de20d5c1fffa)<br>
@@ -131,12 +138,15 @@
 [Scoped storage tutorial for android 11 deep dive](https://www.raywenderlich.com/10768834-scoped-storage-tutorial-for-android-11-deep-dive#c-rate)<br>
 [Android 11 changes storage](https://developer.android.com/about/versions/11/privacy/storage)
 
-
 ### State List Animator
 [StateListAnimator a powerful little tool for elevation](https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0)
 
 ### Testing
-[Android expresso for beginners](https://medium.com/better-programming/android-espresso-for-beginners-57628a15f8b4)
+[Android expresso for beginners](https://medium.com/better-programming/android-espresso-for-beginners-57628a15f8b4)<br>
+[Better android testing at airbnb](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a)
+
+### Theme
+[Android dark theme implementation recap](https://proandroiddev.com/android-dark-theme-implementation-recap-4fcffb0c4bff)
 
 ### TextView
 [One textview to rule them all justifying text](https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455)
