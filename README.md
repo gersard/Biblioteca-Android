@@ -44,7 +44,8 @@
 [Connectivity network internet state change android 10](https://proandroiddev.com/connectivity-network-internet-state-change-on-android-10-and-above-311fb761925)
 
 ### Constraint Layout
-[Barriers](https://constraintlayout.com/basics/barriers.html)
+[Barriers](https://constraintlayout.com/basics/barriers.html)<br>
+[Constraint layout explained using a complex ui](https://medium.com/better-programming/android-constraintlayout-explained-using-a-complex-ui-861c92479c90)
 
 ### Coroutines
 [Coroutines on Android Part 1](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)<br>
@@ -57,6 +58,9 @@
 
 ### Encrypted Shared Preferences
 [Encrypted shared preferences](https://www.rockandnull.com/encrypted-shared-preferences/)
+
+### Exceptions
+[Handling exceptions the easy way](https://proandroiddev.com/handling-exceptions-the-easy-way-3aeade554613)
 
 ### Firebase ML
 [text-recognizer-using-camera](https://mobikul.com/android-text-recognizer-using-camera-and-firebase-ml-kit) <br>
@@ -99,6 +103,9 @@
 ### NDK 
 [Guardar Apis Keys usando NDK](https://medium.com/@sagarsuri56/secure-your-api-keys-locally-like-a-champ-985bb8bbed18)
 
+### Network
+[Understanding how does retrofit work](https://medium.com/mindorks/understand-how-does-retrofit-work-c9e264131f4a)
+
 ### Notifications
 [Notification All in One](https://itnext.io/android-notification-all-in-one-8df3e1218e0e)
 
@@ -126,7 +133,8 @@
 [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)<br>
 [Recycler view sticky header](https://medium.com/swlh/android-recyclerview-stickyheader-without-external-library-25845ec3e20f)<br>
 [Android expandable merge adapter](https://github.com/OHoussein/Android-Expandable-MergeAdapter)<br>
-[Smooth Recyclerview scrolling in android](https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7)
+[Smooth Recyclerview scrolling in android](https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7)<br>
+[Build a Multi-Selection List Using RecyclerView](https://medium.com/better-programming/gmail-like-list-67bc51adc68a)
 
 ### Results API
 [Android new results api and how to use it](https://medium.com/swlh/android-new-results-api-and-how-to-use-it-to-make-your-code-cleaner-de20d5c1fffa)<br>
@@ -143,7 +151,8 @@
 
 ### Testing
 [Android expresso for beginners](https://medium.com/better-programming/android-espresso-for-beginners-57628a15f8b4)<br>
-[Better android testing at airbnb](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a)
+[Better android testing at airbnb](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a)<br>
+[Android testing strategy](https://engineering.talkdesk.com/android-testing-strategy-73269539c13d)
 
 ### Theme
 [Android dark theme implementation recap](https://proandroiddev.com/android-dark-theme-implementation-recap-4fcffb0c4bff)
