@@ -34,6 +34,9 @@
 ### Camera X
 [Smile its camerax preview and capture](https://magdamiu.com/2020/08/10/smile-its-camerax-preview-and-capture/)
 
+### Classes
+[Sealed with a class](https://medium.com/androiddevelopers/sealed-with-a-class-a906f28ab7b5)
+
 ### Clean Architecture
 [Consejos sobre clean Architecture](https://blog.kirei.io/consejos-sobre-clean-architecture-98df898b8068)
 
@@ -76,6 +79,8 @@
 [Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)<br>
 [On request permission result deprecated](https://developer.android.com/reference/androidx/fragment/app/Fragment#onRequestPermissionsResult(int,%20java.lang.String[],%20int[]))
 
+### Flow
+[Instant search using kotlin flow operators](https://blog.mindorks.com/instant-search-using-kotlin-flow-operators)
 
 ### Google Play Biling
 [Working with google play biling part 1](https://medium.com/googleplaydev/working-with-google-play-billing-part-1-387677bd632b)
@@ -85,6 +90,9 @@
 
 ### Gradle
 [Treat your build files as you treat your code](https://proandroiddev.com/treat-your-build-files-as-you-treat-your-code-def80ac52978)
+
+### Images Network
+[Using glide to efficiently load images in android](https://heartbeat.fritz.ai/using-glide-to-efficiently-load-images-in-android-aec0ba9639ea)
 
 ### Java
 [Support for newer java language apis](https://medium.com/androiddevelopers/support-for-newer-java-language-apis-bca79fc8ef65)
@@ -157,6 +165,9 @@
 
 ### State List Animator
 [StateListAnimator a powerful little tool for elevation](https://proandroiddev.com/statelistanimator-a-powerful-little-tool-for-elevation-animation-4b31781e98a0)
+
+### Strict Mode
+[Strict Mode](https://developer.android.com/reference/android/os/StrictMode)
 
 ### Testing
 [Android expresso for beginners](https://medium.com/better-programming/android-espresso-for-beginners-57628a15f8b4)<br>
