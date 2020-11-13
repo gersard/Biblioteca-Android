@@ -149,6 +149,7 @@
 [RecyclerView scrolling performance](https://medium.com/@kamilbekar/recyclerview-scrolling-performance-ff05a3a79262)<br>
 [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)<br>
 [Recycler view sticky header](https://medium.com/swlh/android-recyclerview-stickyheader-without-external-library-25845ec3e20f)<br>
+[Sticky header without external library](https://medium.com/swlh/android-recyclerview-stickyheader-without-external-library-25845ec3e20f)<br>
 [Android expandable merge adapter](https://github.com/OHoussein/Android-Expandable-MergeAdapter)<br>
 [Smooth Recyclerview scrolling in android](https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7)<br>
 [Build a Multi-Selection List Using RecyclerView](https://medium.com/better-programming/gmail-like-list-67bc51adc68a)
