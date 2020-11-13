@@ -139,6 +139,9 @@
 [Understanding performance benefits ConstraintLayout](https://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html)<br>
 [Performance and view hierarchies](https://developer.android.com/topic/performance/rendering/optimizing-view-hierarchies.html)
 
+### Realm
+[Example class to export import a realm database](https://medium.com/glucosio-project/example-class-to-export-import-a-realm-database-on-android-c429ade2b4ed)
+
 ### Recycler View
 [Diffutils improving performance of recyclerview](https://medium.com/mindorks/diffutils-improving-performance-of-recyclerview-102b254a9e4a)<br>
 [Diffutil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)<br>
