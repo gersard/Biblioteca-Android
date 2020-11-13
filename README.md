@@ -53,6 +53,9 @@
 [Create Retrofit CallAdapter for Coroutines to handle response as states](https://proandroiddev.com/create-retrofit-calladapter-for-coroutines-to-handle-response-as-states-c102440de37a)<br>
 [Codelab](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
 
+### Dagger
+[Dagger hilt tutorial](https://blog.mindorks.com/dagger-hilt-tutorial)
+
 ### Dark Mode
 [Android Dark Theme](https://www.netguru.com/codestories/android-dark-theme)
 
@@ -86,6 +89,9 @@
 ### Java
 [Support for newer java language apis](https://medium.com/androiddevelopers/support-for-newer-java-language-apis-bca79fc8ef65)
 
+### Kotlin
+[WithContext vs Async await](https://blog.mindorks.com/kotlin-withcontext-vs-async-await)
+
 ### Local Date
 [Examples for using the Java 8 Date and Time API (JSR 310)](https://gist.github.com/mscharhag/9195718)<br>
 [Java 8 DateTime api](https://www.baeldung.com/migrating-to-java-8-date-time-api)<br>
@@ -111,6 +117,9 @@
 
 ### Optimización de batería
 [Baterry optimization for android apps](https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70)
+
+### Paging
+[Paging 3 tutorial](https://blog.mindorks.com/paging-3-tutorial)
 
 ### Pattern Visitor
 [Creating a Multiple-View-Type RecyclerView Using the Visitor Pattern](https://medium.com/@slarsoncreative/creating-a-multiple-view-type-recyclerview-using-the-visitor-pattern-1184d8732167)
@@ -159,6 +168,9 @@
 
 ### TextView
 [One textview to rule them all justifying text](https://www.codementor.io/rugvedambekar/one-textview-to-rule-them-all-justifying-text-on-android-eq6ihy455)
+
+### URI
+[Uri access lifetime still shorter than you might think](https://commonsware.com/blog/2020/08/08/uri-access-lifetime-still-shorter-than-you-might-think.html)
 
 ### Vector Drawable
 [Easy path to animated icons](https://sourcediving.com/android-recipes-the-easy-path-to-animated-icons-878bffcb0920)
