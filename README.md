@@ -3,9 +3,6 @@
 ### Android Lifecycle
 [Android lifecycle](https://codelabs.developers.google.com/codelabs/android-lifecycles/#0)
 
-### Android WorkManager
-[Codelab workmanager](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
-
 ### Android Support Library v28 
 [Exploring the v28 android design support library](https://medium.com/google-developer-experts/exploring-the-v28-android-design-support-library-2c96c6031ae8)
 
@@ -195,6 +192,6 @@
 [ViewBinding in Android](https://medium.com/better-programming/everything-you-should-know-about-viewbinding-in-android-52552af9e8ba)<br>
 [Simple one liner viewbinding](https://medium.com/@Zhuinden/simple-one-liner-viewbinding-in-fragments-and-activities-with-kotlin-961430c6c07c)
 
-
-
+### Work Manager
+[Codelab work manager]([Codelab workmanager](https://codelabs.developers.google.com/codelabs/android-workmanager/#0))
 
