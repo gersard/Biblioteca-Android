@@ -77,7 +77,8 @@
 [On request permission result deprecated](https://developer.android.com/reference/androidx/fragment/app/Fragment#onRequestPermissionsResult(int,%20java.lang.String[],%20int[]))
 
 ### Flow
-[Instant search using kotlin flow operators](https://blog.mindorks.com/instant-search-using-kotlin-flow-operators)
+[Instant search using kotlin flow operators](https://blog.mindorks.com/instant-search-using-kotlin-flow-operators)<br>
+[Synchronous communication with the ui using state flow](https://proandroiddev.com/synchronous-communication-with-the-ui-using-stateflow-74f6ed68eff5)
 
 ### Google Play Biling
 [Working with google play biling part 1](https://medium.com/googleplaydev/working-with-google-play-billing-part-1-387677bd632b)
@@ -196,5 +197,5 @@
 [Simple one liner viewbinding](https://medium.com/@Zhuinden/simple-one-liner-viewbinding-in-fragments-and-activities-with-kotlin-961430c6c07c)
 
 ### Work Manager
-[Codelab work manager]([Codelab workmanager](https://codelabs.developers.google.com/codelabs/android-workmanager/#0))
+[Codelab work manager](https://codelabs.developers.google.com/codelabs/android-workmanager/#0)
 
