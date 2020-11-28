@@ -153,7 +153,8 @@
 [Sticky header without external library](https://medium.com/swlh/android-recyclerview-stickyheader-without-external-library-25845ec3e20f)<br>
 [Android expandable merge adapter](https://github.com/OHoussein/Android-Expandable-MergeAdapter)<br>
 [Smooth Recyclerview scrolling in android](https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7)<br>
-[Build a Multi-Selection List Using RecyclerView](https://medium.com/better-programming/gmail-like-list-67bc51adc68a)
+[Build a Multi-Selection List Using RecyclerView](https://medium.com/better-programming/gmail-like-list-67bc51adc68a)<br>
+[Cleaning up resources in view holder](https://androidexplained.github.io/android/ui/2020/11/09/cleaning-up-resources-in-view-holder.html)
 
 ### Results API
 [Android new results api and how to use it](https://medium.com/swlh/android-new-results-api-and-how-to-use-it-to-make-your-code-cleaner-de20d5c1fffa)<br>
