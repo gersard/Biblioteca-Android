@@ -72,10 +72,11 @@
 [Read barcodes](https://firebase.google.com/docs/ml-kit/android/read-barcodes#run-the-barcode-detector) <br>
 [Issues quick start](https://github.com/firebase/quickstart-android/issues/703)
 
-### Fragments
+### Fragment
 [Pass data between fragments](https://developer.android.com/training/basics/fragments/pass-data-between)<br>
 [On request permission result deprecated](https://developer.android.com/reference/androidx/fragment/app/Fragment#onRequestPermissionsResult(int,%20java.lang.String[],%20int[]))<br>
-[Fragments - Communicate](https://developer.android.com/guide/fragments/communicate)
+[Fragments - Communicate](https://developer.android.com/guide/fragments/communicate)<br>
+[Fragments fragment result](https://proandroiddev.com/android-fragments-fragment-result-805a6b2522ea)
 
 ### Flow
 [Instant search using kotlin flow operators](https://blog.mindorks.com/instant-search-using-kotlin-flow-operators)<br>
